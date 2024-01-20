@@ -6,6 +6,14 @@ Schematic - https://djtersteegc.github.io/Apple-68k-FujiNet/Apple-68k-FujiNet-Re
 
 Interactive BOM - https://djtersteegc.github.io/Apple-68k-FujiNet/ibom-Rev0.html
 
+![rev0-top.png](docs/rev0-top.png)
+
+![rev0-side.png](docs/rev0-side.png)
+
+
+
+
+
 C1 and C2 can be considered optional, board should work without them.
 
 You'll need 8.5mm high [2.54mm female header strips](https://www.aliexpress.us/item/2251832416528370.html) to mount the ESP32 and Pi Pico.  Buy the 1x40 versions and cut to length.

@@ -518,6 +518,11 @@
       (net 2 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 5f25f5aa-3b00-4ba6-8148-5b80ca101c3a))
     (pad "43" thru_hole oval (at 2.54 23.9 180) (size 1.7 1.7) (drill 1.02) (layers "*.Cu" "*.Mask")
       (net 71 "/SWDIO") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp fa74619b-eaba-4787-ae76-e78dfa925c61))
+    (model "C:/Users/cdter/Documents/Kicad/PICO_PinsDown.STEP" hide
+      (offset (xyz -10.5 -25.5 11))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
